@@ -1,0 +1,33 @@
+﻿body {background-color:midnightblue
+}
+.header{
+    position:absolute;
+    top:2%;
+    right:2%;
+    left:2%;
+    height:15%;
+    width:95%;
+    background-color:skyblue;
+    color:darkblue;
+}
+.placeholder {
+    position: absolute;
+    top: 19%;
+    right: 2%;
+    left: 2%;
+    height: 60%;
+    width: 95%;
+    background-color:aliceblue;
+    color: darkblue;
+}
+.footer {
+    position: absolute;
+    top: 81%;
+    right: 2%;
+    left: 2%;
+    height: 15%;
+    width: 95%;
+    background-color:lightskyblue;
+    color: darkblue;
+}
+h1,h2{text-align:center;}
